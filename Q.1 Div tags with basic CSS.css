@@ -1,0 +1,7 @@
+.punjab h2{
+    color:hotpink;/*this is an external CSS*/
+ } 
+
+ *{
+    color:red; /* targetting all elements*/
+ }

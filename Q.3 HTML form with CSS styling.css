@@ -1,0 +1,40 @@
+.NAME{
+    background-color: red;
+    font-weight: bold;
+
+}
+
+
+.BRANCH{
+    background-color: aqua;
+    font-weight: bold;
+
+}
+
+
+.ROLL-NO{
+    background-color:rgba(243, 211, 109, 0.5);  /* opacity*/
+    font-weight: bold;
+
+
+}
+
+.CGPA{
+    background-color: blueviolet;
+    font-weight: bold;
+
+}
+
+::placeholder{
+    color:burlywood;
+}
+
+.SUBMIT{
+    color:aqua;
+}
+
+#color-pal{
+    background-color: grey;
+}
+
+}

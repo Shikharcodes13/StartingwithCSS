@@ -1,0 +1,39 @@
+.p1{
+    background-color: brown;
+}
+
+.p2{
+    background-color:cadetblue;
+}
+
+.p3{
+    background-color: chocolate;
+}
+
+.p3{
+    background-color:crimson;
+}
+
+.p4{
+    background-color:indigo;
+}
+
+.p5{
+    background-color: hotpink;
+}
+
+.money{
+    background-color: grey;
+}
+
+.money .p1{
+    text-align: center;
+}
+
+.money .p2 {
+    text-transform: uppercase;
+}
+
+.money .p5{
+    font-weight:bold;
+}
